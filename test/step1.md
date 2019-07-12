@@ -1,5 +1,3 @@
-# Set up Datadog AWS Integration
-
 ## Login Datadog
 
 1. Login https://app.datadoghq.com/ using the provided Datadog credentials.
